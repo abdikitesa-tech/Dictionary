@@ -1,0 +1,9 @@
+make -f "/home/abdi/Documents/Dictionary-using-AVL-tree-master" --dry-run --always-make --keep-going --print-directory
+make: Entering directory '/home/abdi/Documents/Abdi Kitesa'
+make: Leaving directory '/home/abdi/Documents/Abdi Kitesa'
+ 
+make: /home/abdi/Documents/Dictionary-using-AVL-tree-master: No such file or directory
+make: *** No rule to make target '/home/abdi/Documents/Dictionary-using-AVL-tree-master'.
+make: Failed to remake makefile '/home/abdi/Documents/Dictionary-using-AVL-tree-master'.
+make: *** No targets specified and no makefile found.  Stop.
+ 
